@@ -131,6 +131,7 @@ under the License.
     <sonar.organization>kebetsi</sonar.organization>
     <sonar.scanner.sonarcloudUrl>https://dev13.sc-dev13.io</sonar.scanner.sonarcloudUrl>
     <sonar.scanner.apiBaseUrl>https://api.sc-dev13.io</sonar.scanner.apiBaseUrl>
+    <sonar.projectKey>kebetsi_maven</sonar.projectKey>
 
     <javaVersion>17</javaVersion>
     <maven.compiler.source>${javaVersion}</maven.compiler.source>
