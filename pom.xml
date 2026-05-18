@@ -128,6 +128,10 @@ under the License.
   </distributionManagement>
 
   <properties>
+    <sonar.organization>kebetsi</sonar.organization>
+    <sonar.scanner.sonarcloudUrl>https://dev13.sc-dev13.io</sonar.scanner.sonarcloudUrl>
+    <sonar.scanner.apiBaseUrl>https://api.sc-dev13.io</sonar.scanner.apiBaseUrl>
+
     <javaVersion>17</javaVersion>
     <maven.compiler.source>${javaVersion}</maven.compiler.source>
     <maven.compiler.target>${javaVersion}</maven.compiler.target>
